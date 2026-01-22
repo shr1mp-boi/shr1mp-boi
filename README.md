@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- shrimp posture PhD
-- 3 SIGSEGV per Dr. Pepper
+- 💻🦐
+- 4 SIGSEGV per Dr. Pepper
 - Pizza-sub enjoyer
